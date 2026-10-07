@@ -6,6 +6,8 @@
 
 Desenvolvedor com foco em **Java e desenvolvimento backend**, construindo aplicações web, APIs REST e sistemas com regras de negócio reais.
 
+Também possuo experiência prática com **Python para aplicações desktop e automação**, além de desenvolver aplicações web com **TypeScript e JavaScript**.
+
 Atualmente aprofundando meus conhecimentos em **Spring Boot, bancos relacionais, arquitetura de software e TypeScript**.
 
 </div>
@@ -16,6 +18,7 @@ Atualmente aprofundando meus conhecimentos em **Spring Boot, bancos relacionais,
 
 - ☕ Foco principal em **Java e desenvolvimento Backend**
 - 🌱 Aprofundando conhecimentos em **Spring Boot e arquitetura de software**
+- 🐍 Experiência prática com **Python, PySide6/Qt e automação com Selenium**
 - 🌐 Desenvolvendo também aplicações web com **TypeScript e JavaScript**
 - 🗄️ Experiência com bancos relacionais e modelagem de dados
 - 🧪 Interesse em boas práticas, testes e código sustentável
@@ -33,6 +36,17 @@ Atualmente aprofundando meus conhecimentos em **Spring Boot, bancos relacionais,
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
+
+### 🐍 Python, Desktop & Automação
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
+
+Experiência aplicada em desenvolvimento de **aplicações desktop para Windows**, automação de navegador, gerenciamento de configurações, atualizações, downloads e fluxos automatizados.
 
 ### Banco de dados
 
@@ -85,7 +99,12 @@ Por questões comerciais e de propriedade intelectual, alguns códigos-fonte nã
 
 ### 🖥️ AutoREAP
 
-Aplicação desktop desenvolvida para automação de processos, distribuída através de versões públicas.
+Aplicação desktop para Windows desenvolvida em **Python**, com interface em **PySide6/Qt** e automação de navegador utilizando **Selenium**.
+
+O projeto automatiza etapas repetitivas de preenchimento no portal PesqBrasil e inclui recursos como perfis de configuração, acompanhamento de execução, downloads, atualizações, licenciamento e testes automatizados.
+
+**Stack:**  
+`Python` `PySide6` `Qt` `Selenium`
 
 📦 [Releases públicas](https://github.com/dreagas/autoreapv2/releases)
 
@@ -109,7 +128,10 @@ O código-fonte é privado, mas existe uma versão do projeto disponível para d
 - 🌐 TypeScript e desenvolvimento web
 - 🧪 Testes automatizados e boas práticas
 
-📫 Contato
+---
+
+## 📫 Contato
+
 <p>
   <a href="https://www.linkedin.com/in/andr%C3%A9-agas-a329b0313">
     <img src="https://img.shields.io/badge/LinkedIn-André_Agas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -120,7 +142,10 @@ O código-fonte é privado, mas existe uma versão do projeto disponível para d
   </a>
 </p>
 
+---
+
 <div align="center">
 
 ☕ Backend primeiro. Sempre aprendendo, construindo e evoluindo.
+
 </div>
